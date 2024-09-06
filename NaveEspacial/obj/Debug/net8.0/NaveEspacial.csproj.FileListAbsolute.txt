@@ -1,0 +1,14 @@
+C:\Users\fjgutierrez\source\repos\NaveEspacial\NaveEspacial\bin\Debug\net8.0\NaveEspacial.exe
+C:\Users\fjgutierrez\source\repos\NaveEspacial\NaveEspacial\bin\Debug\net8.0\NaveEspacial.deps.json
+C:\Users\fjgutierrez\source\repos\NaveEspacial\NaveEspacial\bin\Debug\net8.0\NaveEspacial.runtimeconfig.json
+C:\Users\fjgutierrez\source\repos\NaveEspacial\NaveEspacial\bin\Debug\net8.0\NaveEspacial.dll
+C:\Users\fjgutierrez\source\repos\NaveEspacial\NaveEspacial\bin\Debug\net8.0\NaveEspacial.pdb
+C:\Users\fjgutierrez\source\repos\NaveEspacial\NaveEspacial\obj\Debug\net8.0\NaveEspacial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fjgutierrez\source\repos\NaveEspacial\NaveEspacial\obj\Debug\net8.0\NaveEspacial.AssemblyInfoInputs.cache
+C:\Users\fjgutierrez\source\repos\NaveEspacial\NaveEspacial\obj\Debug\net8.0\NaveEspacial.AssemblyInfo.cs
+C:\Users\fjgutierrez\source\repos\NaveEspacial\NaveEspacial\obj\Debug\net8.0\NaveEspacial.csproj.CoreCompileInputs.cache
+C:\Users\fjgutierrez\source\repos\NaveEspacial\NaveEspacial\obj\Debug\net8.0\NaveEspacial.dll
+C:\Users\fjgutierrez\source\repos\NaveEspacial\NaveEspacial\obj\Debug\net8.0\refint\NaveEspacial.dll
+C:\Users\fjgutierrez\source\repos\NaveEspacial\NaveEspacial\obj\Debug\net8.0\NaveEspacial.pdb
+C:\Users\fjgutierrez\source\repos\NaveEspacial\NaveEspacial\obj\Debug\net8.0\NaveEspacial.genruntimeconfig.cache
+C:\Users\fjgutierrez\source\repos\NaveEspacial\NaveEspacial\obj\Debug\net8.0\ref\NaveEspacial.dll

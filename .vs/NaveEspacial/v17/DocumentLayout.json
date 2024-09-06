@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fjgutierrez\\source\\repos\\NaveEspacial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDBD846-4432-449D-8F47-1BCA14118238}|NaveEspacial\\NaveEspacial.csproj|c:\\users\\fjgutierrez\\source\\repos\\naveespacial\\naveespacial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DDBD846-4432-449D-8F47-1BCA14118238}|NaveEspacial\\NaveEspacial.csproj|solutionrelative:naveespacial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDBD846-4432-449D-8F47-1BCA14118238}|NaveEspacial\\NaveEspacial.csproj|c:\\users\\fjgutierrez\\source\\repos\\naveespacial\\naveespacial\\ventana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DDBD846-4432-449D-8F47-1BCA14118238}|NaveEspacial\\NaveEspacial.csproj|solutionrelative:naveespacial\\ventana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDBD846-4432-449D-8F47-1BCA14118238}|NaveEspacial\\NaveEspacial.csproj|c:\\users\\fjgutierrez\\source\\repos\\naveespacial\\naveespacial\\nave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DDBD846-4432-449D-8F47-1BCA14118238}|NaveEspacial\\NaveEspacial.csproj|solutionrelative:naveespacial\\nave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDBD846-4432-449D-8F47-1BCA14118238}|NaveEspacial\\NaveEspacial.csproj|c:\\users\\fjgutierrez\\source\\repos\\naveespacial\\naveespacial\\bala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DDBD846-4432-449D-8F47-1BCA14118238}|NaveEspacial\\NaveEspacial.csproj|solutionrelative:naveespacial\\bala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDBD846-4432-449D-8F47-1BCA14118238}|NaveEspacial\\NaveEspacial.csproj|c:\\users\\fjgutierrez\\source\\repos\\naveespacial\\naveespacial\\enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DDBD846-4432-449D-8F47-1BCA14118238}|NaveEspacial\\NaveEspacial.csproj|solutionrelative:naveespacial\\enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enemigo.cs",
+              "DocumentMoniker": "C:\\Users\\fjgutierrez\\source\\repos\\NaveEspacial\\NaveEspacial\\Enemigo.cs",
+              "RelativeDocumentMoniker": "NaveEspacial\\Enemigo.cs",
+              "ToolTip": "C:\\Users\\fjgutierrez\\source\\repos\\NaveEspacial\\NaveEspacial\\Enemigo.cs",
+              "RelativeToolTip": "NaveEspacial\\Enemigo.cs",
+              "ViewState": "AQIAABMBAAAAAAAAAAAcwGcBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:42:15.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bala.cs",
+              "DocumentMoniker": "C:\\Users\\fjgutierrez\\source\\repos\\NaveEspacial\\NaveEspacial\\Bala.cs",
+              "RelativeDocumentMoniker": "NaveEspacial\\Bala.cs",
+              "ToolTip": "C:\\Users\\fjgutierrez\\source\\repos\\NaveEspacial\\NaveEspacial\\Bala.cs",
+              "RelativeToolTip": "NaveEspacial\\Bala.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAcwLsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:02:14.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nave.cs",
+              "DocumentMoniker": "C:\\Users\\fjgutierrez\\source\\repos\\NaveEspacial\\NaveEspacial\\Nave.cs",
+              "RelativeDocumentMoniker": "NaveEspacial\\Nave.cs",
+              "ToolTip": "C:\\Users\\fjgutierrez\\source\\repos\\NaveEspacial\\NaveEspacial\\Nave.cs",
+              "RelativeToolTip": "NaveEspacial\\Nave.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAwwOEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:27:58.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ventana.cs",
+              "DocumentMoniker": "C:\\Users\\fjgutierrez\\source\\repos\\NaveEspacial\\NaveEspacial\\Ventana.cs",
+              "RelativeDocumentMoniker": "NaveEspacial\\Ventana.cs",
+              "ToolTip": "C:\\Users\\fjgutierrez\\source\\repos\\NaveEspacial\\NaveEspacial\\Ventana.cs",
+              "RelativeToolTip": "NaveEspacial\\Ventana.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:08:17.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fjgutierrez\\source\\repos\\NaveEspacial\\NaveEspacial\\Program.cs",
+              "RelativeDocumentMoniker": "NaveEspacial\\Program.cs",
+              "ToolTip": "C:\\Users\\fjgutierrez\\source\\repos\\NaveEspacial\\NaveEspacial\\Program.cs",
+              "RelativeToolTip": "NaveEspacial\\Program.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAmwEMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:06:25.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
